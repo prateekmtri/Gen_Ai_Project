@@ -4,3 +4,4 @@ __pycache__/
 vector_db_cloud/
 vector_db/
 venv/
+local_vector_db/
